@@ -1,0 +1,9 @@
+{
+  "paths": {
+    "visualizationFspl": "./"
+  },
+  "translations": [
+    "translations/zh-CN.json"
+  ]
+}
+
